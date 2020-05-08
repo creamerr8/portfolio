@@ -46,7 +46,7 @@ Time Estimates
 
 	Start time: 4:25
 
-	Finish time: _____
+	Finish time: 5:24
 
-	Actual time needed to complete: _____
+	Actual time needed to complete: 59 min
 
